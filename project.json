@@ -1,0 +1,19 @@
+{
+    "image_setup": {
+      "stable_diffusion_url": "https://modelslab.com/api/v6/realtime/text2img"
+    },
+    "image_settings": {
+        "key": "QxD0rrWbYhg3PJ3ME7Cm9qUUZ07HNCN6zD534ykW5QIXvSuuNsPAPd1SV7YX",
+        "prompt": "",
+        "negative_prompt": "((out of frame)), ((extra fingers)), mutated hands, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), (((tiling))), ((naked)), ((tile)), ((fleshpile)), ((ugly)), (((abstract))), blurry, ((bad anatomy)), ((bad proportions)), ((extra limbs)), cloned face, (((skinny))), glitchy, ((extra breasts)), ((double torso)), ((extra arms)), ((extra hands)), ((mangled fingers)), ((missing breasts)), (missing lips), ((ugly face)), ((fat)), ((extra legs)), anime",
+        "width": "512",
+        "height": "512",
+        "samples": "1",
+        "num_inference_steps": "20",
+        "seed": null,
+        "guidance_scale": 7.5,
+        "webhook": null,
+        "track_id": null
+    }
+  }
+  
