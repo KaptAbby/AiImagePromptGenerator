@@ -2,6 +2,7 @@
     "image_setup": {
       "stable_diffusion_url": "https://modelslab.com/api/v6/realtime/text2img"
     },
+    
     "image_settings": {
         "key": "QxD0rrWbYhg3PJ3ME7Cm9qUUZ07HNCN6zD534ykW5QIXvSuuNsPAPd1SV7YX",
         "prompt": "",
